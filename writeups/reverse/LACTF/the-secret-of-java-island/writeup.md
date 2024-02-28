@@ -625,4 +625,4 @@ if __name__ == "__main__":
 In the notepad, I found the same hash that I got after converting the byte array into a convenient form and got the correct combination: "dpddpdpp".
 
 Entered this combination in game and got the flag:
-[flag](image.png)
+![flag](image.png)
